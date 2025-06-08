@@ -60,11 +60,11 @@ function AboutMe() {
           </AboutParagraph>
 
           <AboutParagraph icon={FaGraduationCap}>
-            I'm pursuing an <Text as="span" fontWeight="bold">BSC in Information Technology Management</Text>, graduating class of 2025.
+            I am pursuing a <Text as="span" fontWeight="bold">BSC in Information Technology Management</Text>, graduating class of 2025.
           </AboutParagraph>
 
           <AboutParagraph icon={FaLaptopCode}>
-            I am currently a <Text as="span" fontWeight="bold">free lance Software Developer</Text> and I have previously went studied abroad in Japan at <Text as="span" fontWeight="bold">Shibaura Institute Of Technology</Text> for 6 months. 
+            I am currently a <Text as="span" fontWeight="bold">free lance Software Developer</Text> and I have previously studied abroad in Japan at <Text as="span" fontWeight="bold">Shibaura Institute Of Technology</Text> for 5 months. 
           </AboutParagraph>
 
           <AboutParagraph icon={FaCode}>
