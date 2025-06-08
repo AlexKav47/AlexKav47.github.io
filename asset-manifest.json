@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AlexKav47.github.io/static/css/main.3733a9cd.css",
-    "main.js": "/AlexKav47.github.io/static/js/main.55116e83.js",
-    "index.html": "/AlexKav47.github.io/index.html",
-    "main.3733a9cd.css.map": "/AlexKav47.github.io/static/css/main.3733a9cd.css.map",
-    "main.55116e83.js.map": "/AlexKav47.github.io/static/js/main.55116e83.js.map"
+    "main.css": "/static/css/main.3733a9cd.css",
+    "main.js": "/static/js/main.19f2e4e4.js",
+    "index.html": "/index.html",
+    "main.3733a9cd.css.map": "/static/css/main.3733a9cd.css.map",
+    "main.19f2e4e4.js.map": "/static/js/main.19f2e4e4.js.map"
   },
   "entrypoints": [
     "static/css/main.3733a9cd.css",
-    "static/js/main.55116e83.js"
+    "static/js/main.19f2e4e4.js"
   ]
 }
