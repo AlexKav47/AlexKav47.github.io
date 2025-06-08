@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexKav47.github.io/static/css/main.3733a9cd.css",
+    "main.js": "/AlexKav47.github.io/static/js/main.55116e83.js",
+    "index.html": "/AlexKav47.github.io/index.html",
+    "main.3733a9cd.css.map": "/AlexKav47.github.io/static/css/main.3733a9cd.css.map",
+    "main.55116e83.js.map": "/AlexKav47.github.io/static/js/main.55116e83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3733a9cd.css",
+    "static/js/main.55116e83.js"
+  ]
+}
