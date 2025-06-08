@@ -36,8 +36,8 @@ const projectsData = [
         { name: 'HTML/CSS', icon: FaHtml5, color: 'green' },
       ],
       imageSrc: '/Game.jpg',
-      link: '/demos/asteroid-game/index.html',
-      githubLink: 'https://github.com/your-username/asteroid-game',
+      link: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
+      githubLink: 'https://github.com/AlexKav47/Asteroid-Game.github.io',
       sections: [
         { heading: 'Project Background', content: 'The idea behind the Asteroid Game was to create a fun and challenging web-based game. It allowed me to explore real-time interaction and physics simulation within a browser environment.' },
         { heading: 'Technical Challenges', content: 'One of the main challenges was optimizing rendering performance for smooth gameplay, especially with multiple asteroids on screen. Implementing accurate collision detection also required careful mathematical consideration.' },
