@@ -140,7 +140,7 @@ function Home() {
           shadow: 'lg',
           bg: useColorModeValue(`${buttonColorScheme}.50`, `${buttonColorScheme}.900`),
         }}
-        onClick={() => window.open('/path-to-your-resume.pdf', '_blank')}
+        onClick={() => window.open('CV.pdf', '_blank')}
       >
         Resume
       </Button>

@@ -16,8 +16,8 @@ const projectsData = [
       { name: 'HTML/CSS', icon: FaHtml5, color: 'green' }
     ],
     imageSrc: '/Game.jpg',
-    link: 'https://your-actual-asteroid-game-demo.com',
-    githubLink: 'https://github.com/your-username/asteroid-game',
+    link: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
+    githubLink: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
   },
   {
     id: 'project-2',

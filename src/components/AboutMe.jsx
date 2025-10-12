@@ -72,7 +72,7 @@ function AboutMe() {
           </AboutParagraph>
 
           <AboutParagraph icon={FaCamera}>
-            In addition to Information Technology, I am also interested in <Text as="span" fontWeight="bold">artificial intelligence</Text> and machine learning, as well as art! Check out my{' '}
+            In addition to Information Technology, I am also interested in <Text as="span" fontWeight="bold">artificial intelligence</Text> and machine learning as well as art! Check out my{' '}
             <Link href="https://www.artstation.com/apkgraphics47" isExternal color={linkColor} fontWeight="bold" textDecoration="underline">
               art portfolio
             </Link>{' '}
