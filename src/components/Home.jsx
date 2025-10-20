@@ -92,7 +92,7 @@ function Home() {
         position="relative"
         zIndex={1}
       >
-        Information Technology Management @ South East Technological University '25
+        Information Technology Management at South East Technological University '25
       </Text>
 
       <Stack direction="row" spacing={4} mb={8} position="relative" zIndex={1}>
