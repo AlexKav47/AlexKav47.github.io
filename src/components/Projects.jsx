@@ -7,19 +7,6 @@ import { DiJavascript } from "react-icons/di";
 
 const projectsData = [
   {
-    id: 'asteroid-game',
-    title: 'Asteroid Game',
-    type: 'WEB APP',
-    description: 'My asteroid game is a simple but fun 2D space shooter built with JavaScript and the Canvas API.',
-    technologies: [
-      { name: 'Javascript', icon: DiJavascript, color: 'blue' },
-      { name: 'HTML/CSS', icon: FaHtml5, color: 'green' }
-    ],
-    imageSrc: '/Game.jpg',
-    link: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
-    githubLink: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
-  },
-  {
     id: 'BloomView',
     title: 'Financial Portfolio Tracker "Bloom View"',
     type: 'WEB APP',
@@ -33,6 +20,19 @@ const projectsData = [
     imageSrc: '/BloomView.png',
     link: 'https://alexkav47.github.io/BloomView.github.io/',
     githubLink: 'https://github.com/AlexKav47/Financial-Portfolio-Tracker',
+  },
+  {
+    id: 'asteroid-game',
+    title: 'Asteroid Game',
+    type: 'WEB APP',
+    description: 'My asteroid game is a simple but fun 2D space shooter built with JavaScript and the Canvas API.',
+    technologies: [
+      { name: 'Javascript', icon: DiJavascript, color: 'blue' },
+      { name: 'HTML/CSS', icon: FaHtml5, color: 'green' }
+    ],
+    imageSrc: '/Game.jpg',
+    link: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
+    githubLink: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
   },
   {
     id: 'project-3',
