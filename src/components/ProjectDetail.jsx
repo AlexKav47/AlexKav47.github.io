@@ -45,20 +45,26 @@ const projectsData = [
       ]
     },
     {
-      id: 'project-2',
-      title: 'Project 2',
-      type: 'WEB APP',
-      description: 'Project 2 Description',
-      fullDescription: 'Detailed description for Project 2.',
-      technologies: [
-        { name: 'Python', icon: FaPython, color: 'yellow' },
-        { name: 'Typescript', icon: SiTypescript, color: 'teal' },
-      ],
-      imageSrc: '/Workinprogress.jpg',
-      link: '#',
-      githubLink: 'https://github.com/your-username/project2',
-      sections: []
-    },
+        id: 'BloomView',
+        title: 'Financial Portfolio Tracker "Bloom View"',
+        type: 'WEB APP',
+        description: 'A full-stack portfolio dashboard for beginner Irish investors: unified holdings, allocation breakdown, KPIs, rolling 30-day price history, and an income tracker for dividends and staking.',
+        fullDescription: 'Bloom View is a full stack solution created to simplify portfolio tracking for new to intermediate investors. The system focuses on clear monitoring, using a KPI driven dashbaord and interactive visualisations to transform raw financial data into actionable insights with a focus on educational framework to empower users to learn and make more informed decisions. ',
+        technologies: [
+          { name: 'Javascript', icon: DiJavascript, color: 'blue' },
+          { name: 'MongoDB', icon: SiMongodb, color: 'teal' },
+          { name: 'Node.js', icon: FaNodeJs, color: 'green' },
+          { name: 'React', icon: FaReact, color: 'purple' }
+        ],
+        imageSrc: '/BloomView.png',
+        link: 'https://alexkav47.github.io/BloomView.github.io/',
+        githubLink: 'https://github.com/AlexKav47/Financial-Portfolio-Tracker',
+        sections: [
+        { heading: 'Project Background', content: 'The idea behind the Financial Portfolio Tracker "Bloom View" was to create a user-friendly solution for beginner Irish investors to manage their investments effectively.' },
+        { heading: 'Technical Challenges', content: 'One of the main challenges was integrating multiple data sources to provide a unified view of the user\'s portfolio. Ensuring real-time updates and maintaining a responsive UI under varying data loads were also significant hurdles.' },
+        { heading: 'Future Enhancements', content: 'Potential future enhancements include adding more advanced analytics, improving the user interface, and expanding the range of financial instruments supported.' }
+      ]
+      },
     {
       id: 'project-3',
       title: 'Project 3',

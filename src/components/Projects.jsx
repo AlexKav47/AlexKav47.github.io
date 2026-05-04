@@ -1,8 +1,8 @@
 import React from 'react';
 import { Box, Heading, Text, SimpleGrid, Flex, Badge, Icon, useColorModeValue, Image, Button, IconButton } from '@chakra-ui/react';
 import { Link as RouterLink } from 'react-router-dom'; 
-import { FaPython, FaGithub, FaHtml5 } from 'react-icons/fa';
-import { SiPostgresql, SiFirebase,SiTypescript } from 'react-icons/si';
+import { FaPython, FaGithub, FaHtml5, FaNodeJs, FaReact } from 'react-icons/fa';
+import { SiPostgresql, SiFirebase, SiTypescript, SiMongodb } from 'react-icons/si';
 import { DiJavascript } from "react-icons/di";
 
 const projectsData = [
@@ -20,17 +20,19 @@ const projectsData = [
     githubLink: 'https://alexkav47.github.io/Asteroid-Game.github.io/',
   },
   {
-    id: 'project-2',
-    title: 'Project 2',
-    type: 'Project 2 Type',
-    description: 'Project 2 Description',
+    id: 'BloomView',
+    title: 'Financial Portfolio Tracker "Bloom View"',
+    type: 'WEB APP',
+    description: 'A full-stack portfolio dashboard for beginner Irish investors: unified holdings, allocation breakdown, KPIs, rolling 30-day price history, and an income tracker for dividends and staking.',
     technologies: [
-      { name: 'Python', icon: FaPython, color: 'yellow' },
-      { name: 'Typescript', icon: SiTypescript, color: 'teal' },
+      { name: 'Javascript', icon: DiJavascript, color: 'blue' },
+      { name: 'MongoDB', icon: SiMongodb, color: 'teal' },
+      { name: 'Node.js', icon: FaNodeJs, color: 'green' },
+      { name: 'React', icon: FaReact, color: 'purple' }
     ],
-    imageSrc: '/Workinprogress.jpg',
-    link: '#',
-    githubLink: 'https://github.com/your-username/project2',
+    imageSrc: '/BloomView.png',
+    link: 'https://alexkav47.github.io/BloomView.github.io/',
+    githubLink: 'https://github.com/AlexKav47/Financial-Portfolio-Tracker',
   },
   {
     id: 'project-3',
